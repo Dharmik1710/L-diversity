@@ -4,6 +4,8 @@ Very simple and basic Implementation of L-diversity
 
 The implementation of L-diversity is done in python.
 
+Race is taken as the sensitive attribute in this data.
+
 There are four parts of this algorithm
 
 1) Read and store the data from the .data file into a python hash table with key as the attributes and their values as values from file.
