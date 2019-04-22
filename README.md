@@ -1,6 +1,6 @@
-I am Patel Dharmek
 # L-diversity
-Very simple algorithm
+
+Very simple and basic Implementation of L-diversity
 
 The implementation of L-diversity is done in python.
 
